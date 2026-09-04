@@ -1,0 +1,92 @@
+[
+  {
+    "event_id": "us7000qc7n",
+    "event_time": "2025-07-11T14:19:44Z",
+    "latitude": 28.9429,
+    "longitude": 76.8282,
+    "depth_km": 10,
+    "magnitude": 4.1,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us7000qbqu",
+    "event_time": "2025-07-10T03:34:48Z",
+    "latitude": 28.6735,
+    "longitude": 76.6889,
+    "depth_km": 10,
+    "magnitude": 4.5,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us7000pe5z",
+    "event_time": "2025-02-17T00:06:52Z",
+    "latitude": 28.5887,
+    "longitude": 77.1025,
+    "depth_km": 10,
+    "magnitude": 4.2,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us7000j1aj",
+    "event_time": "2022-12-31T19:49:41Z",
+    "latitude": 28.7191,
+    "longitude": 76.6286,
+    "depth_km": 10,
+    "magnitude": 4.1,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us7000hkq7",
+    "event_time": "2022-06-27T22:49:50Z",
+    "latitude": 28.8231,
+    "longitude": 76.6692,
+    "depth_km": 10,
+    "magnitude": 3.7,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us7000eiwa",
+    "event_time": "2021-07-05T17:06:55Z",
+    "latitude": 28.9016,
+    "longitude": 76.839,
+    "depth_km": 10,
+    "magnitude": 3.9,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us7000cryp",
+    "event_time": "2020-12-17T18:16:48Z",
+    "latitude": 28.5188,
+    "longitude": 77.2852,
+    "depth_km": 10,
+    "magnitude": 3.8,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us7000ahde",
+    "event_time": "2020-07-03T13:30:49Z",
+    "latitude": 28.142,
+    "longitude": 76.5366,
+    "depth_km": 30.38,
+    "magnitude": 4.3,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us6000a1wn",
+    "event_time": "2020-05-29T15:38:41Z",
+    "latitude": 29.1724,
+    "longitude": 77.0219,
+    "depth_km": 10,
+    "magnitude": 4.2,
+    "mag_type": "mb"
+  },
+  {
+    "event_id": "us70009ebf",
+    "event_time": "2020-05-10T08:15:27Z",
+    "latitude": 28.7268,
+    "longitude": 77.3516,
+    "depth_km": 10,
+    "magnitude": 3.7,
+    "mag_type": "mb"
+  }
+]
